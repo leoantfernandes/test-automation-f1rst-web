@@ -6,4 +6,7 @@ Login Listagem de produtos disponíveis Adição de produto ao carrinho Validaç
 
 🚨 Caso o login cadastrado expire, cadastre novamente através do 'https://front.serverest.dev/login' > 'Cadastre-se' > email: leonardoantoniofernandes@gmail.com > senha: Vinhedo.02
 
-🧰 Tecnologias Utilizadas Cypress JavaScript Node.js
+🧰 Tecnologias Utilizadas:
+Cypress 
+JavaScript 
+Node.js
